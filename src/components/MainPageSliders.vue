@@ -22,7 +22,7 @@
                     </div>
                     <div class="absolute-center text-center z-index-1">
                         <a href="">
-                            <img src="img/playico.png" class="img-rounded" width="100px">
+                            <img src="https://cxcrodrigues.github.io/apoiofacil_website/img/playico.png" class="img-rounded" width="100px">
                         </a>
                     </div>
                     <a :href="'https://youtu.be/' + video.videoId " target="_blank" class="position-absolute z-index-1 top-0px left-0px h-100 w-100 force-magic-cursor"></a>

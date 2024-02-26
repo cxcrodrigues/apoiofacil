@@ -34,11 +34,11 @@
                 </div>
             </div>
         </nav>
-        <div class="push-menu hamburger-nav header-dark hamburger-menu-simple bg-dark-gray" style="background-image: url(images/vertical-line-bg-small.svg)">
+        <div class="push-menu hamburger-nav header-dark hamburger-menu-simple bg-dark-gray" style="background-image: url(https://cxcrodrigues.github.io/apoiofacil_website/images/vertical-line-bg-small.svg)">
             <span class="close-menu bg-white fs-18"><span class="text-dark-gray">X</span></span>
             <div class="d-flex flex-column align-items-center justify-content-center h-100 p-5 sm-px-0">
                 <a class="hamburger-logo" href="/">
-                    <img src="logo.png" data-at2x="logo.png" alt="">
+                    <img src="https://cxcrodrigues.github.io/apoiofacil_website/logo.png" data-at2x="https://cxcrodrigues.github.io/apoiofacil_website/logo.png" alt="">
                 </a>
                 <div class="row align-items-center justify-content-center">
                     <div class="hamburger-menu menu-list-wrapper col-lg-5 col-md-12 lg-no-margin offset-lg-1" data-scroll-options='{ "theme": "light" }'> 

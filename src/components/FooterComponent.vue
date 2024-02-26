@@ -1,5 +1,5 @@
 <template>
-    <footer class="bg-very-light-gray background-position-center-top pb-3 footer-sticky" style="background-image: url(images/vertical-line-bg-small-medium-gray.svg)">
+    <footer class="bg-very-light-gray background-position-center-top pb-3 footer-sticky" style="background-image: url(https://cxcrodrigues.github.io/apoiofacil_website/images/vertical-line-bg-small-medium-gray.svg)">
             <div class="container">
                 <div class="row mb-3">
                 </div>
@@ -11,7 +11,7 @@
                     </div>
                     <div class="col-auto text-center text-md-start sm-mb-15px">
                         <a class="footer-logo" href="/">
-                            <img src="/logo.png" data-at2x="/logo.png" alt="">
+                            <img src="https://cxcrodrigues.github.io/apoiofacil_website/logo.png" data-at2x="https://cxcrodrigues.github.io/apoiofacil_website/logo.png" alt="">
                         </a>
                     </div>
                 </div>

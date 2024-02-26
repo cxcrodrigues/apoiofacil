@@ -1,6 +1,6 @@
 <template>
     <HeaderComponent :navcolor="1" />
-    <div class="main-content background-position-center-top" style="background-image: url(images/vertical-line-bg-small-medium-gray.svg)">
+    <div class="main-content background-position-center-top" style="background-image: url(https://cxcrodrigues.github.io/apoiofacil_website/images/vertical-line-bg-small-medium-gray.svg)">
             <!-- start page title --> 
             <section class="top-space-margin pb-0 position-relative" style="margin-top: 125.988px;">
                 <div class="container">
@@ -98,7 +98,7 @@ export default defineComponent({
         document.title = 'Apoio Fácil - Projetos';
         const favicon = document.querySelector('link[rel="icon"]');
         if (favicon) {
-            favicon.setAttribute('href', 'favicon.ico');
+            favicon.setAttribute('href', 'https://cxcrodrigues.github.io/apoiofacil_website/favicon.ico');
         }
 
         this.videos = await YoutubeService.getPlaylistVideosInfo();

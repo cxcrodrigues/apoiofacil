@@ -1,7 +1,7 @@
 <template>
     <HeaderComponent :navcolor="1" />
-    <div class="main-content background-position-center-top" style="background-image: url(images/vertical-line-bg-small-medium-gray.svg)">
-        <div class="main-content background-position-center-top" style="background-image: url(images/vertical-line-bg-small-medium-gray.svg)">
+    <div class="main-content background-position-center-top" style="background-image: url(https://cxcrodrigues.github.io/apoiofacil_website/images/vertical-line-bg-small-medium-gray.svg)">
+        <div class="main-content background-position-center-top" style="background-image: url(https://cxcrodrigues.github.io/apoiofacil_website/images/vertical-line-bg-small-medium-gray.svg)">
             <!-- start page title --> 
             <section class="top-space-margin pb-0 position-relative">
                 <div class="container">
