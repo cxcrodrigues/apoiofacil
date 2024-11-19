@@ -44,8 +44,8 @@
                     <div class="hamburger-menu menu-list-wrapper col-lg-5 col-md-12 lg-no-margin offset-lg-1" data-scroll-options='{ "theme": "light" }'> 
                         <ul class="menu-item-list fw-300 alt-font ls-minus-2px">
                             <li class="menu-item"><a href="/" class="nav-link">Página Inicial</a></li>
-                            <li class="menu-item"><a href="/portfolio" class="nav-link">Portfólio</a></li>
-                            <li class="menu-item"><a href="/contactos" class="nav-link">Contactos</a></li>
+                            <li class="menu-item"><a href="#/portfolio" class="nav-link">Portfólio</a></li>
+                            <li class="menu-item"><a href="#/contactos" class="nav-link">Contactos</a></li>
                         </ul>
                     </div> 
                     <div class="col-md-5 d-none d-lg-inline-block offset-1">
